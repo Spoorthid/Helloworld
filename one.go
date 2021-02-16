@@ -3,6 +3,6 @@ package Helloworld
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, spoo")
+	fmt.Println("Hello, spoo...")
 }
 
